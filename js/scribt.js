@@ -7,8 +7,13 @@ document.getElementById('validationForm').addEventListener('submit', function(ev
 
     if (username === '29212022100010' && id === '30406101306594') {
         window.location.href = 'success.html';
-    } else {
+    }
+            if (username === '29112024100738' && id === '30608121300713') {
+        window.location.href = 'success.html';
+    }
+    else {
         errorMessage.textContent = 'كودالطالب او كلمة السر غير صحيحه';
         errorMessage.style.display = 'block';
     }
 });
+
