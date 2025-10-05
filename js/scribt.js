@@ -9,11 +9,12 @@ document.getElementById('validationForm').addEventListener('submit', function(ev
         window.location.href = 'success.html';
     }
             if (username === '29112024100738' && id === '30608121300713') {
-        window.location.href = 'success.html';
+        window.location.href = 'new1.html';
     }
     else {
         errorMessage.textContent = 'كودالطالب او كلمة السر غير صحيحه';
         errorMessage.style.display = 'block';
     }
 });
+
 
