@@ -12,7 +12,7 @@ document.getElementById('validationForm').addEventListener('submit', function(ev
         window.location.href = 'new1.html';
     }
             if (username === '29112024100737' && id === '30608121300713') {
-        window.location.href = 'new1.html';
+        window.location.href = 'success2.html';
     }
     else {
         errorMessage.textContent = 'كودالطالب او كلمة السر غير صحيحه';
