@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نجاح</title>
+    <link rel="stylesheet" href="./css/tow.css">
+</head>
+<body>
+
+    <form name="aspnetForm" method="post" action="../../UMISReports/viewers/OR_StudentViewer.aspx?ModNam=%u0646%u0638%u0627%u0645+%u063a%u064a%u0631+%u0645%u0639%u0631%u0641&amp;p_as_faculty_info_id=92&amp;FacNam=&amp;rqpage=.studentactivities.zu.edu.eg%2fstudents%2fregistration%2fed%2fdet_acad_sheet_en.aspx&amp;FacLgo=http%3a%2f%2f192.168.10.77%2fStudents_publish%2f%2fNoPictureFound.gif&amp;ICTPTEXT=%u0627%u0644%u0645%u0640%u0640%u0640%u0635%u0640%u0640%u0640%u062f%u0631+%u0642%u0640%u0627%u0639%u0640%u062f%u0629+%u0628%u0640%u0640%u0640%u064a%u0640%u0640%u0640%u0640%u0640%u0627%u0646%u0640%u0640%u0627%u062a+%u0646%u0640%u0640%u0640%u0640%u0638%u0640%u0640%u0640%u0640%u0645+%u0627%u0644%u0645%u0640%u0640%u0639%u0640%u0640%u0644%u0640%u0640%u0640%u0648%u0645%u0640%u0640%u0627%u062a+%u0627%u0644%u0627%u062f%u0627%u0631%u064a%u0640%u0640%u0640%u0640%u0640%u0629&amp;RptRDL=OR_REG_COURSE_GROUP_EN_1&amp;p_ed_stud_id=612252&amp;UniLgo=http%3a%2f%2f192.168.10.77%2fStudents_publish%2f%2fNoPictureFound.gif" id="aspnetForm">
+        <div>
+        <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+        <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+        <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTUxOTkzNDc4NA9kFgJmD2QWAgIDD2QWCAIDD2QWAmYPZBYcAgEPDxYEHghJbWFnZVVybAUpfi9JbWFnZXMvRGVmYXVsdEltYWdlcy9Ob1BpY3R1cmVGb3VuZC5naWYeB1Zpc2libGVnZGQCBQ8PFgIeBFRleHQFG9is2KfZhdi52Kkg2KfZhNiy2YLYp9iy2YrZgmRkAgcPDxYCHwIFPiAtINin2YTZgti32KfYuSDYp9mE2YfZhtiv2LPZiiAo2KfZhNis2KfZhdi52Kkg2KfZhNij2YfZhNmK2KkpZGQCCQ8PFgQfAAUpfi9JbWFnZXMvRGVmYXVsdEltYWdlcy9Ob1BpY3R1cmVGb3VuZC5naWYfAWdkZAILDw8WBB8ABSt+L3VzZXJkb2N1bWVudHMvMi9TZWN0b3IvMzA0MDYxMDEzMDY1OTQuanBnHwFnZGQCDQ8PFgIfAgUx2KfZhNin2LPZhTog2KfZhdmK2LEg2YXYrdmF2K8g2LPZhNmK2YXYp9mGINmG2YjYrWRkAg8PDxYCHwIFGtin2YTZg9mI2K86IDI5MjEyMDIyMTAwMDEwZGQCEQ8PFgIfAgUn2KfZhNix2YLZhSDYp9mE2YLZiNmF2Yk6IDMwNDA2MTAxMzA2NTk0ZGQCEw8PFgIfAgUS2KfZhNmF2LPYqtmI2YkgMTAwZGQCFQ8PFgIfAgUm2KfZhNmB2LXZhCDYp9mE2K/Ysdin2LPZiiDYp9mE2KvYp9mG2YpkZAIXDw8WAh8CBYIB2KfZhNmE2KfYptit2Kk6INin2YTZhNin2KbYrdipINin2YTYr9in2K7ZhNmK2Kkg2YTYqNix2YbYp9mF2Kwg2YfZhtiv2LPYqSDYp9mE2KXZhti02KfYodin2Kog2YjYpdiv2KfYsdipINin2YTYqti02YrZitivIDIwMjItMjAyM2RkAhkPDxYCHwIFVNin2YTZgtiz2YUgLyDYp9mE2LTYudio2Kk6INmH2YbYr9iz2Kkg2KfZhNil2YbYtNin2KHYp9iqINmI2KXYr9in2LHYqSDYp9mE2KrYtNmK2YrYr2RkAhsPDxYCHwIFKNin2YTYudin2YUg2KfZhNin2YPYp9iv2YrZhdmJOiAyMDIzLTIwMjRkZAIdDxYCHwFnFgICAQ8PFgIfAgUM2KfZhNiu2LHZiNisZGQCBw9kFgJmD2QWAgIBDxYCHwFnFgYCBg8WAh8BZ2QCCQ8WAh8BZ2QCCg8WAh8BZ2QCCQ9kFgICAw8UKwAEDxYCHg5SZW5kZXJpbmdTdGF0ZQsplQFNaWNyb3NvZnQuUmVwb3J0aW5nLldlYkZvcm1zLlJlcG9ydFJlbmRlcmluZ1N0YXRlLCBNaWNyb3NvZnQuUmVwb3J0Vmlld2VyLldlYkZvcm1zLCBWZXJzaW9uPTguMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49YjAzZjVmN2YxMWQ1MGEzYQJkKClYU3lzdGVtLkd1aWQsIG1zY29ybGliLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OSQ2ZjgyY2Y2Ni1kN2M1LTRiNzUtYWI2MS0xYmMzMGVkMWJkMTACARQrAAEUKwACAgFkFgZmDxQrAAJkZxYmAgMPZBYEZg8PFgIfAgUCOTJkZAIBDxAPFgIeB0NoZWNrZWRoFgIeB29uY2xpY2sFsgFDbGllbnRQYXJhbXNjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwLlVwZGF0ZVBhcmFtMSgnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwwM19jdGwwMScsICdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDAzX2N0bDAwJyk7ZGRkAgUPZBYEZg8PFgIfAgUGNjEyMjUyZGQCAQ8QDxYCHwRoFgIfBQWyAUNsaWVudFBhcmFtc2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDAuVXBkYXRlUGFyYW0xKCdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDA1X2N0bDAxJywgJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMDVfY3RsMDAnKTtkZGQCBw9kFgRmDw8WAh8CBTlodHRwOi8vMTkyLjE2OC4xMC43Ny9TdHVkZW50c19wdWJsaXNoLy9Ob1BpY3R1cmVGb3VuZC5naWZkZAIBDxAPFgIfBGgWAh8FBbIBQ2xpZW50UGFyYW1zY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMC5VcGRhdGVQYXJhbTEoJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMDdfY3RsMDEnLCAnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwwN19jdGwwMCcpO2RkZAIJD2QWBGYPDxYCHwIFOWh0dHA6Ly8xOTIuMTY4LjEwLjc3L1N0dWRlbnRzX3B1Ymxpc2gvL05vUGljdHVyZUZvdW5kLmdpZmRkAgEPEA8WAh8EaBYCHwUFsgFDbGllbnRQYXJhbXNjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwLlVwZGF0ZVBhcmFtMSgnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwwOV9jdGwwMScsICdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDA5X2N0bDAwJyk7ZGRkAgsPZBYEZg8PFgIfAmVkZAIBDxAPFgIfBGgWAh8FBbIBQ2xpZW50UGFyYW1zY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMC5VcGRhdGVQYXJhbTEoJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMTFfY3RsMDEnLCAnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwxMV9jdGwwMCcpO2RkZAIND2QWBGYPDxYCHwJkZGQCAQ8QDxYCHwRnFgIfBQWyAUNsaWVudFBhcmFtc2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDAuVXBkYXRlUGFyYW0xKCdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDEzX2N0bDAxJywgJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMTNfY3RsMDAnKTtkZGQCDw9kFgRmDw8WAh8CBRjZhti42KfZhSDYutmK2LEg2YXYudix2YFkZAIBDxAPFgIfBGgWAh8FBbIBQ2xpZW50UGFyYW1zY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMC5VcGRhdGVQYXJhbTEoJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMTVfY3RsMDEnLCAnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwxNV9jdGwwMCcpO2RkZAIRD2QWBGYPDxYCHwJkZGQCAQ8QDxYCHwRnFgIfBQWyAUNsaWVudFBhcmFtc2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDAuVXBkYXRlUGFyYW0xKCdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDE3X2N0bDAxJywgJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMTdfY3RsMDAnKTtkZGQCEw9kFgRmDw8WAh8CZGRkAgEPEA8WAh8EZxYCHwUFsgFDbGllbnRQYXJhbXNjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwLlVwZGF0ZVBhcmFtMSgnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwxOV9jdGwwMScsICdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDE5X2N0bDAwJyk7ZGRkAhUPZBYEZg8PFgIfAmRkZAIBDxAPFgIfBGcWAh8FBbIBQ2xpZW50UGFyYW1zY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMC5VcGRhdGVQYXJhbTEoJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMjFfY3RsMDEnLCAnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwyMV9jdGwwMCcpO2RkZAIXD2QWBGYPDxYCHwJkZGQCAQ8QDxYCHwRnFgIfBQWyAUNsaWVudFBhcmFtc2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDAuVXBkYXRlUGFyYW0xKCdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDIzX2N0bDAxJywgJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMjNfY3RsMDAnKTtkZGQCGQ9kFgRmDw8WAh8CZGRkAgEPEA8WAh8EZxYCHwUFsgFDbGllbnRQYXJhbXNjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwLlVwZGF0ZVBhcmFtMSgnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwyNV9jdGwwMScsICdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDI1X2N0bDAwJyk7ZGRkAhsPZBYEZg8PFgIfAmRkZAIBDxAPFgIfBGcWAh8FBbIBQ2xpZW50UGFyYW1zY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMC5VcGRhdGVQYXJhbTEoJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMjdfY3RsMDEnLCAnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwyN19jdGwwMCcpO2RkZAIdD2QWBGYPDxYCHwJkZGQCAQ8QDxYCHwRnFgIfBQWyAUNsaWVudFBhcmFtc2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDAuVXBkYXRlUGFyYW0xKCdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDI5X2N0bDAxJywgJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMjlfY3RsMDAnKTtkZGQCHw9kFgRmDw8WAh8CZGRkAgEPEA8WAh8EZxYCHwUFsgFDbGllbnRQYXJhbXNjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwLlVwZGF0ZVBhcmFtMSgnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwzMV9jdGwwMScsICdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDMxX2N0bDAwJyk7ZGRkAiEPZBYEZg8PFgIfAgWfAdin2YTZhdmA2YDZgNi12YDZgNmA2K/YsSDZgtmA2KfYudmA2K/YqSDYqNmA2YDZgNmK2YDZgNmA2YDZgNin2YbZgNmA2KfYqiDZhtmA2YDZgNmA2LjZgNmA2YDZgNmFINin2YTZhdmA2YDYudmA2YDZhNmA2YDZgNmI2YXZgNmA2KfYqiDYp9mE2KfYr9in2LHZitmA2YDZgNmA2YDYqWRkAgEPEA8WAh8EaBYCHwUFsgFDbGllbnRQYXJhbXNjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwLlVwZGF0ZVBhcmFtMSgnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwzM19jdGwwMScsICdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDMzX2N0bDAwJyk7ZGRkAiMPZBYEZg8PFgIfAmRkZAIBDxAPFgIfBGcWAh8FBbIBQ2xpZW50UGFyYW1zY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMC5VcGRhdGVQYXJhbTEoJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMzVfY3RsMDEnLCAnY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMF9jdGwzNV9jdGwwMCcpO2RkZAIlD2QWBGYPDxYCHwJkZGQCAQ8QDxYCHwRnFgIfBQWyAUNsaWVudFBhcmFtc2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDAuVXBkYXRlUGFyYW0xKCdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDM3X2N0bDAxJywgJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMzdfY3RsMDAnKTtkZGQCJw9kFgRmDw8WAh8CBQEwZGQCAQ8QDxYCHwRoFgIfBQWyAUNsaWVudFBhcmFtc2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDAuVXBkYXRlUGFyYW0xKCdjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyX2N0bDAwX2N0bDM5X2N0bDAxJywgJ2N0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXJfY3RsMDBfY3RsMzlfY3RsMDAnKTtkZGQCAQ9kFhBmD2QWBGYPD2QWAh8FBUZDbGllbnRUb29sYmFyY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMS5PbkRvY01hcENsaWNrKCk7FgJmDw8WBh4FV2lkdGgbAAAAAAAAMEABAAAAHgZIZWlnaHQbAAAAAAAAMEABAAAAHgRfIVNCAoADFgIeBXN0eWxlBQxwYWRkaW5nOjJweDtkAgEPFgIeBVZhbHVlBQVmYWxzZWQCAQ9kFgpmD2QWBGYPZBYCZg8PFgYfBhsAAAAAAAAwQAEAAAAfBxsAAAAAAAAwQAEAAAAfCAKAAxYCHwkFDHBhZGRpbmc6MnB4O2QCAQ9kFgJmDw8WBh8GGwAAAAAAADBAAQAAAB8HGwAAAAAAADBAAQAAAB8IAoADFgIfCQUMcGFkZGluZzoycHg7ZAIBD2QWBGYPZBYCZg8PFgYfBhsAAAAAAAAwQAEAAAAfBxsAAAAAAAAwQAEAAAAfCAKAAxYCHwkFDHBhZGRpbmc6MnB4O2QCAQ9kFgJmDw8WBh8GGwAAAAAAADBAAQAAAB8HGwAAAAAAADBAAQAAAB8IAoADFgIfCQUMcGFkZGluZzoycHg7ZAICDw8WBB8CZR4HRW5hYmxlZGgWAh4Kb25rZXlwcmVzcwXnAWlmIChldmVudC5rZXlDb2RlID09IDEwIHx8IGV2ZW50LmtleUNvZGUgPT0gMTMpIHtpZiAoIUNsaWVudENvbnRyb2xsZXJjdGwwMF9jbnRwaG1hc3Rlcl9VbWlzUmVwb3J0Vmlld2VyLkhhbmRsZVVzZXJUZXh0UGFnZUNoYW5nZSh0aGlzLnZhbHVlKSkge19fZG9Qb3N0QmFjaygnY3RsMDAkY250cGhtYXN0ZXIkVW1pc1JlcG9ydFZpZXdlciRjdGwwMSRjdGwwMSRjdGwwMicsJycpfSByZXR1cm4gZmFsc2U7fWQCBQ9kFgRmD2QWAmYPDxYGHwYbAAAAAAAAMEABAAAAHwcbAAAAAAAAMEABAAAAHwgCgAMWAh8JBQxwYWRkaW5nOjJweDtkAgEPZBYCZg8PFgYfBhsAAAAAAAAwQAEAAAAfBxsAAAAAAAAwQAEAAAAfCAKAAxYCHwkFDHBhZGRpbmc6MnB4O2QCBg9kFgRmD2QWAmYPDxYGHwYbAAAAAAAAMEABAAAAHwcbAAAAAAAAMEABAAAAHwgCgAMWAh8JBQxwYWRkaW5nOjJweDtkAgEPZBYCZg8PFgYfBhsAAAAAAAAwQAEAAAAfBxsAAAAAAAAwQAEAAAAfCAKAAxYCHwkFDHBhZGRpbmc6MnB4O2QCAg9kFgJmD2QWBGYPZBYCZg8PFgYfBhsAAAAAAAAwQAEAAAAfBxsAAAAAAAAwQAEAAAAfCAKAAxYCHwkFDHBhZGRpbmc6MnB4O2QCAQ9kFgJmDw8WBh8GGwAAAAAAADBAAQAAAB8HGwAAAAAAADBAAQAAAB8IAoADFgIfCQUMcGFkZGluZzoycHg7ZAIDD2QWAmYPEA9kFgQeCG9uY2hhbmdlBVxDbGllbnRUb29sYmFyY3RsMDBfY250cGhtYXN0ZXJfVW1pc1JlcG9ydFZpZXdlcl9jdGwwMS5Pblpvb21DaGFuZ2VkKGV2ZW50LnNyY0VsZW1lbnQudmFsdWUpOx4IZGlzYWJsZWQFCGRpc2FibGVkZBYBAgVkAgQPZBYCZg8PZBYCHwwFigFpZiAoZXZlbnQua2V5Q29kZSA9PSAxMCB8fCBldmVudC5rZXlDb2RlID09IDEzKSB7Q2xpZW50Q29udHJvbGxlcmN0bDAwX2NudHBobWFzdGVyX1VtaXNSZXBvcnRWaWV3ZXIuSGFuZGxlQ2xpZW50U2lkZUZpbmQoKTsgcmV0dXJuIGZhbHNlO31kAgYPZBYCZg9kFgJmDw8WBh8GGwAAAAAAADBAAQAAAB8HGwAAAAAAADBAAQAAAB8IAoADFgIfCQUMcGFkZGluZzoycHg7ZAIHD2QWAmYPZBYEZg9kFgJmDw8WBh8GGwAAAAAAADBAAQAAAB8HGwAAAAAAADBAAQAAAB8IAoADFgIfCQUMcGFkZGluZzoycHg7ZAIBD2QWAmYPDxYGHwYbAAAAAAAAMEABAAAAHwcbAAAAAAAAMEABAAAAHwgCgAMWAh8JBQxwYWRkaW5nOjJweDtkAggPDxYCHwFoZGQCBg8WAh8KBQEwZAILDw8WAh8BZ2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYhBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDAzJGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDA1JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDA3JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDA5JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDExJGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDEzJGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDE1JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDE3JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDE5JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDIxJGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDIzJGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDI1JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDI3JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDI5JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDMxJGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDMzJGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDM1JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDM3JGN0bDAxBTRjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAwJGN0bDM5JGN0bDAxBTpjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAwJGN0bDAwJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDAwJGN0bDAwJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDAwJGN0bDAxJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDAxJGN0bDAwJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDAxJGN0bDAxJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDA1JGN0bDAwJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDA1JGN0bDAxJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDA2JGN0bDAwJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDA2JGN0bDAxJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAyJGN0bDAwJGN0bDAwJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAyJGN0bDAwJGN0bDAxJGN0bDAwBTpjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDA2JGN0bDAwJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDA3JGN0bDAwJGN0bDAwJGN0bDAwBUBjdGwwMCRjbnRwaG1hc3RlciRVbWlzUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDA3JGN0bDAwJGN0bDAxJGN0bDAwtW7L4czEnBR5W4LYwa5niqVS9sw=" />
+        </div>
+            <div class="main">
+                <div class="header">
+                    <table cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td>
+                                <div class="block_header" style="padding-left: 0px;">
+                                    <div id="ctl00_panal1">
+            
+                                            <table width="100%" dir="rtl">
+                                                <tr>
+                                                    <td colspan="3">
+                                                        <br />
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="width: 20%; " >
+                                                        <img id="ctl00_imgUniLogo" src="./img/03.png" style="height:90px;width:90px;border-width:0px;" />
+                                                    </td>
+                                                    <td align="center">
+                                                        <span id="ctl00_lblTitlehead" class="Label_Header" style="font-size:26pt;">خدمات التسجيل الالكترونى</span>
+                                                        <br />
+                                                        <span id="ctl00_lblUniName" class="Label_Header" style="font-size:26pt;">جامعة الزقازيق</span>
+                                                       
+                                                        <span id="ctl00_lblFacName" class="Label_Header" style="font-size:26pt;"> - القطاع الهندسي (الجامعة الأهلية)</span>
+                                                    </td>
+                                                    <td align="left" style="width: 20%">
+                                                        <img id="ctl00_imgfaclogo" src="./img/03.png" style="height:90px;width:90px;border-width:0px;" />
+                                                    </td>
+                                                </tr>
+        
+                                                <tr>
+                                                    <td colspan="3">
+                                                        <table width="100%">
+                                                            <tr>
+                                                                <td rowspan="4" valign="middle">
+                                                                    <img id="ctl00_imgedstud" src="./img/02.png" style="height:80px;width:80px;border-width:0px;" />
+                                                                </td>
+                                                                <td>
+                                                                    <span id="ctl00_lblstudname" class="lbl_header">الاسم: امير محمد سليمان نوح</span>
+                                                                </td>
+                                                                <td>
+                                                                    <span id="ctl00_lblcode" class="lbl_header">الكود: 29212022100010</span>
+                                                                </td>
+                                                                <td>
+                                                                    <span id="ctl00_lblnationalnum" class="lbl_header">الرقم القومى: 30406101306594</span>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <span id="ctl00_lblphase" class="lbl_header">المستوى 100</span>
+                                                                </td>
+                                                                <td>
+                                                                    <span id="ctl00_lblsem" class="lbl_header">الفصل الدراسي الثاني</span>
+                                                                </td>
+                                                                <td>
+                                                                    <span id="ctl00_lblbylaw" class="lbl_header">اللائحة: اللائحة الداخلية لبرنامج هندسة الإنشاءات وإدارة التشييد 2022-2023</span>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <span id="ctl00_lblasnode" class="lbl_header">القسم / الشعبة: هندسة الإنشاءات وإدارة التشييد</span>
+                                                                </td>
+                                                                <td align="right" colspan="2">
+                                                                    <span id="ctl00_lblacadyear" class="lbl_header">العام الاكاديمى: 2023-2024</span>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td id="ctl00_tdlogout" align="left" colspan="3">
+                                                                    <a id="ctl00_lblogout" href="javascript:__doPostBack('ctl00$lblogout','')" style="color:White;font-size:14pt;text-decoration:underline;">الخروج</a>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+        </div>
+                                    
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="body_pic" dir="rtl">
+                    <div class="body_resize">
+                        <table width="100%">
+                            <tr>
+                                <td colspan="2" align ="center">
+                                    <span id="ctl00_lbltitle" style="color:Black;font-family:Traditional Arabic;font-size:24px;font-weight:bold;"></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20%;" valign="top">
+                                    <div style="float: right; height: 100%; padding-top: 15%;">
+                                        <div id="ctl00_paneltbl">
+            
+                                                <table id="ctl00_tblmenu" class="tablestyle" width="100%">
+                <tr id="ctl00_Trstudentsubjects" align="center">
+                    <td class="tdstyle">
+                                                            <a id="ctl00_lbstudentsubjects" href="./secound.html" style="text-decoration:none;">بيان بالمقررات المسجلة للطالب</a>
+                                                        </td>
+                </tr>
+                <tr id="ctl00_TrDET_ACAD_SHEET_EN" align="center">
+                    <td class="tdstyle">
+                    <a id="ctl00_lbDET_ACAD_SHEET_EN" href="./success.html" style="text-decoration:none;">عرض تفصيلى لمقررات الطالب بالانجليزي</a>
+                   </td>
+                </tr>
+                <tr id="ctl00_TrDET_ACAD_SHEET_AR" align="center">
+                    <td class="tdstyle">
+                                                            <a id="ctl00_lbDET_ACAD_SHEET_AR" href="./success.html" style="text-decoration:none;">عرض تفصبلى لمقررات الطالب بالعريى</a>
+                                                        </td>
+                </tr>
+            </table>
+            
+                                            
+        </div>
+                                    </div>
+                                </td>
+                                <td style="width: 80%;" valign="top" align="center">
+                                    <div class="rightcol">
+                                        
+            <table dir="rtl"  border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+                    <tr>
+                        <td style="height: 1px" align="center">
+                         
+                            
+                            
+                            </td>                   
+                        <td style="height: 1px">
+                          
+                        </td>
+                    </tr>
+                    <tr>              
+                        <td colspan=2 dir="rtl"  align="center" valign="top">
+                <div id="ctl00_cntphmaster_UmisReportViewer" style="display:inline-block;height:900px;width:100%;">
+            <div id="ctl00_cntphmaster_UmisReportViewer_ctl01" style="display:inline-block;font-family:Arabic Transparent;font-size:8pt;width:100%;display:inline;background-color:Gray;">
+                <div style="background-color:Gray;padding-left:6px;background-color:Gray;">
+                    <div style="display:inline;font-family:Arabic Transparent;font-size:8pt;height:30px;">
+                           </div><table cellpadding="0" cellspacing="0" ToolbarSpacer="true" style="display:inline;">
+                        <tr>
+                            <td style="width:20px;"></td>
+                        </tr>
+                    </table><div style="display:inline;font-family:Arabic Transparent;font-size:8pt;height:30px;">
+                        <table cellpadding="0" cellspacing="0" style="display:inline;">
+                            <tr>
+                                <td height="28px"><table id="ctl00_cntphmaster_UmisReportViewer_ctl01_ctl06_ctl00" onclick="if (ClientToolbarctl00_cntphmaster_UmisReportViewer_ctl01.m_clientController.ActionHandler('Refresh', null), false) {__doPostBack('ctl00$cntphmaster$UmisReportViewer$ctl01$ctl06$ctl00','');} return false;" onmouseover="HoverImagectl00_cntphmaster_UmisReportViewer_ctl01_ctl06_ctl00.OnHover();" onmouseout="HoverImagectl00_cntphmaster_UmisReportViewer_ctl01_ctl06_ctl00.OnNormal();" title="Refresh">
+                                    <tr>
+                                        <td><input type="image" name="ctl00$cntphmaster$UmisReportViewer$ctl01$ctl06$ctl00$ctl00" title="Refresh" src="/Students/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=8.0.50727.1826&amp;Name=Icons.Refresh.gif" alt="Refresh" style="height:16px;width:16px;border-width:0px;padding:2px;" /></td>
+                                    </tr>
+                                </table><script>
+                                    HoverImagectl00_cntphmaster_UmisReportViewer_ctl01_ctl06_ctl00.OnNormal();
+                                </script></td>
+                            </tr>
+                        </table>
+          
+
+                    </div>
+                </div>
+                <div class="img">
+                    <img src="./img/007.jpg" width="700px" alt="">
+                </div>
+            </div><input type="hidden" name="ctl00$cntphmaster$UmisReportViewer$ctl04" id="ctl00_cntphmaster_UmisReportViewer_ctl04" /><input type="hidden" name="ctl00$cntphmaster$UmisReportViewer$ctl05" id="ctl00_cntphmaster_UmisReportViewer_ctl05" /><input type="hidden" name="ctl00$cntphmaster$UmisReportViewer$ctl06" id="ctl00_cntphmaster_UmisReportViewer_ctl06" value="0" /><noscript>               
+                
+        
+                </table>
+                    </div>
+     
+                </div>
+                <div class="footer">
+                    <div class="resize">
+        
+                        <div style="color: Black; font-size: 13px; width:90%; padding-left:5%">
+                        <a id="ctl00_lblogoutF" font-family="Traditional Arabic" href="javascript:__doPostBack('ctl00$lblogoutF','')" style="color:Black;font-size:13pt;text-decoration:underline;">الخروج</a>
+                            <center style="font-weight: bold; color: black; font-family: 'Traditional Arabic'; border-top:groove 1px gray;
+                                font-size: 13pt;">
+                                <span id="ctl00_Label1" style="text-decoration:underline;">مشروع تطوير نظم وتكنولوجيا المعلومات في التعليم العالي ICTP - © 2014 جميع الحقوق محفوظة</span>
+                                <br />
+                                <a href="http://www.informatique-eg.com" style="color: black; font-family: 'Traditional Arabic'; font-size:13pt ">
+                                    <span id="ctl00_lblInformatique">التصميم و التنفيذ من خلال شركة انفورماتيك لتكنولوجيا المعلومات</span>
+                            </center>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        
+        </form>
+        </body>
+    </div>
+</body>
+</html>
